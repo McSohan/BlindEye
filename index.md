@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Blind Eye: Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/McSohan/BlindEye/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Introducing the BlindEye application for Android.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This application is intended to identify the denomination of 50, 100, 200 and 500 rupee Indian currency.
 
-### Markdown
+The application does not collect any user data and only requires access to the phone camera during operation. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please contact me and I will try my best to fix it.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/McSohan/BlindEye/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Sincerely,
+Sohan
